@@ -1,9 +1,9 @@
-# Список докладов по группам
+ # Список докладов по группам
 
 - CI-CD/DevOps
     * [Быстро нельзя медленно: история борьбы за ускорение сборок образов](https://devoops.ru/talks/90931081b5294a44ab9ca21d947544d9/?referer=%2Fschedule%2Ftable%2F{:target="_blank"});
     * [GitLab components. Как не докатиться до монолитных шаблонов CI/CD](https://devoops.ru/talks/98ebc0e368324d53b00fe1b6c4b37ae1/?referer=%2Ftalks%2Fc8fcae9086084a59924b607db6090d0e%2F);
-    * [Инструменты тестирования систем управления конфигурациями](https://devoops.ru/talks/6c5f9fdf10a1403c814b4d60787e1976/?referer=%2Fschedule%2Ftable%2F);
+    * [Инструменты тестирования систем управления конфигурациями (ТБанк)](https://devoops.ru/talks/6c5f9fdf10a1403c814b4d60787e1976/?referer=%2Fschedule%2Ftable%2F);
     * [Регресс не спасет: как организовать тестирование инфраструктурных изменений](https://devoops.ru/talks/2d2d84dd49014d58acb9c8555414741b/?referer=%2Fschedule%2Ftable%2F);
     * [Ключи, сертификаты и роботы: как приручить non-human identities в DevOps-ландшафте](https://devoops.ru/talks/b4f9c8dae1564932a2e3e2560f4e68e9/?referer=%2Fschedule%2Ftable%2F);
     * [Платформы и другие игрушки для взрослых](https://devoops.ru/talks/e16550c4b8c449eca7c5189d0013c6a2/?referer=%2Fschedule%2Ftable%2F);
@@ -12,11 +12,12 @@
     * [Круглый стол: «Во что мы превратили DevOps?»](https://devoops.ru/talks/abbcbef15bbd477fb2f39c94ab99b8d5/?referer=%2Fschedule%2Ftable%2F);
    
 - AI
+    * N8N
+        * [Круглый стол: «Интеграции и ИИ в энтерпрайзе — от BPMN до n8n и генеративных решений и VibeOps»](https://devoops.ru/talks/9ceab8202a1a4aefa79db96b77acd019/?referer=%2Fschedule%2Ftable%2F);
+        * [n8n + AI для DevOps-процессов (2GIS)](https://devoops.ru/talks/93e1f9ecd9e24a558b6f8ad1b69eb99d/?referer=%2Fschedule%2Ftable%2F);
     * [Ломай меня полностью: как ИИ (не) помогает делать пентест](https://devoops.ru/talks/5082d03961ed4d4cad92ee4a0e043d9f/?referer=%2Fschedule%2Ftable%2F);
     * [Как выжать максимум из GPU и Ray: наш боевой ML-инфраструктурный пайплайн](https://devoops.ru/talks/26ec6eb681d34acd893a1be87c7ec53e/?referer=%2Fschedule%2Ftable%2F);
-    * [Круглый стол: «Интеграции и ИИ в энтерпрайзе — от BPMN до n8n и генеративных решений и VibeOps»](https://devoops.ru/talks/9ceab8202a1a4aefa79db96b77acd019/?referer=%2Fschedule%2Ftable%2F);
     * [ИИ в SDLC](https://devoops.ru/talks/df5b877c9e5f4471a87363e171619653/?referer=%2Fschedule%2Ftable%2F);
-    * [n8n + AI для DevOps-процессов](https://devoops.ru/talks/93e1f9ecd9e24a558b6f8ad1b69eb99d/?referer=%2Fschedule%2Ftable%2F);
     * [От RAG для операторов до RAG-платформы для крупного банка](https://devoops.ru/talks/890fba9d437542dabbe073810a607019/?referer=%2Fschedule%2Ftable%2F);
     * [Битва кодовых ассистентов. Эффективность, безопасность и стоимость](https://devoops.ru/talks/7ecf9463c48b42aca232722767d89f8d/?referer=%2Fschedule%2Ftable%2F);
 
