@@ -3,8 +3,8 @@
 - CI-CD/DevOps
     * [Быстро нельзя медленно: история борьбы за ускорение сборок образов](https://devoops.ru/talks/90931081b5294a44ab9ca21d947544d9/?referer=%2Fschedule%2Ftable%2F{:target="_blank"});
     * [GitLab components. Как не докатиться до монолитных шаблонов CI/CD](https://devoops.ru/talks/98ebc0e368324d53b00fe1b6c4b37ae1/?referer=%2Ftalks%2Fc8fcae9086084a59924b607db6090d0e%2F);
-    * [Инструменты тестирования систем управления конфигурациями (ТБанк)](https://devoops.ru/talks/6c5f9fdf10a1403c814b4d60787e1976/?referer=%2Fschedule%2Ftable%2F);
-    * [Регресс не спасет: как организовать тестирование инфраструктурных изменений](https://devoops.ru/talks/2d2d84dd49014d58acb9c8555414741b/?referer=%2Fschedule%2Ftable%2F);
+    * [Инструменты тестирования систем управления конфигурациями](https://devoops.ru/talks/6c5f9fdf10a1403c814b4d60787e1976/?referer=%2Fschedule%2Ftable%2F);
+    * [Регресс не спасет: как организовать тестирование инфраструктурных изменений (ТБанк)](https://devoops.ru/talks/2d2d84dd49014d58acb9c8555414741b/?referer=%2Fschedule%2Ftable%2F);
     * [Ключи, сертификаты и роботы: как приручить non-human identities в DevOps-ландшафте](https://devoops.ru/talks/b4f9c8dae1564932a2e3e2560f4e68e9/?referer=%2Fschedule%2Ftable%2F);
     * [Платформы и другие игрушки для взрослых](https://devoops.ru/talks/e16550c4b8c449eca7c5189d0013c6a2/?referer=%2Fschedule%2Ftable%2F);
     * [Observability распределенных систем](https://devoops.ru/talks/42c936428c0145a7a39ba83929017ff1/?referer=%2Fschedule%2Ftable%2F);
