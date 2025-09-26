@@ -13,8 +13,8 @@
    
 - AI
     * N8N
-        * [Круглый стол: «Интеграции и ИИ в энтерпрайзе — от BPMN до n8n и генеративных решений и VibeOps»](https://devoops.ru/talks/9ceab8202a1a4aefa79db96b77acd019/?referer=%2Fschedule%2Ftable%2F);
         * [n8n + AI для DevOps-процессов (2GIS)](https://devoops.ru/talks/93e1f9ecd9e24a558b6f8ad1b69eb99d/?referer=%2Fschedule%2Ftable%2F);
+        * [Круглый стол: «Интеграции и ИИ в энтерпрайзе — от BPMN до n8n и генеративных решений и VibeOps»](https://devoops.ru/talks/9ceab8202a1a4aefa79db96b77acd019/?referer=%2Fschedule%2Ftable%2F);
     * [Ломай меня полностью: как ИИ (не) помогает делать пентест](https://devoops.ru/talks/5082d03961ed4d4cad92ee4a0e043d9f/?referer=%2Fschedule%2Ftable%2F);
     * [Как выжать максимум из GPU и Ray: наш боевой ML-инфраструктурный пайплайн](https://devoops.ru/talks/26ec6eb681d34acd893a1be87c7ec53e/?referer=%2Fschedule%2Ftable%2F);
     * [ИИ в SDLC](https://devoops.ru/talks/df5b877c9e5f4471a87363e171619653/?referer=%2Fschedule%2Ftable%2F);
